@@ -19,9 +19,8 @@
 
         return decimalB.toString();
         
-
-        
     }
+    
 console.log(binaryReversal('47'));
 
 module.exports = binaryReversal;
