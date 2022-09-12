@@ -29,7 +29,7 @@ function listSorting(needle, haystack) {
         return haystack.lastIndexOf(needle);
     }
 }
-console.log(listSorting(6, [1, 2, 3, 4, 6]));
+
 
 module.exports = listSorting;
 
