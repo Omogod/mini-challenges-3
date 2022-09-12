@@ -5,6 +5,7 @@ function listSorting(needle, haystack) {
         let column;
         let row;
 
+        
         //loop through haystack to find the row that contains the needle
     for (let i = 0; i < haystack.length; i++) {
         
