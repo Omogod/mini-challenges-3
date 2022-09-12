@@ -19,6 +19,8 @@
 
         return decimalB.toString();
         
+
+        
     }
 console.log(binaryReversal('47'));
 
